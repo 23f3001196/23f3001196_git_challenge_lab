@@ -1,2 +1,2 @@
-def multiply_numbers(a, b):
+def multiply(a, b):
     return a * b

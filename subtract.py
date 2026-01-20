@@ -1,2 +1,2 @@
-def subtract_numbers(a, b):
+def subtract(a, b):
     return a - b
